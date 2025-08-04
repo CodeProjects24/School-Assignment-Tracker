@@ -1,7 +1,7 @@
 # School-Assignment-Tracker
 # 📝 Homework Tracker
 
-Hi! I'm a 15-year-old high school student, and this is a simple Python app I made to help keep track of homework. I built it using Python during the summer after my freshman year. It lets you add tasks, see them in a list, and mark them as done when you're finished. Since this is the first project I made, I used AI to help guide me.
+Hello. I'm a 15-year-old high school student, and this is a simple Python app I made to help keep track of homework. I built it using Python during the summer after my freshman year. It lets you add tasks, see them in a list, and mark them as done when you're finished. Since this is the first project I made, I used AI to help guide me in the process of brainstorming, making my code easier to understand, and to make my code into a GUI.
 
 ---
 
